@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **B.E. Computer Engineering** student at **NMIET Pune** (CGPA: 8.88)
+- 🎓 **Computer Engineering Graduate (2026)** student at **NMIET Pune** (CGPA: 8.88)
 - 💼 Building backend systems with **Java, Spring Boot, MySQL, and MongoDB**
 - 🏆 Holds **2 Government of India Copyrights** for original software projects
 - 📄 Published research paper in **IJCRT** on Big Data and Predictive Analytics
