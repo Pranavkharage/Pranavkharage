@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Kharage</h1>
-<h3 align="center">Final-year Computer Engineering Student | Backend Developer | Spring Boot | Java</h3>
+<h3 align="center">Computer Engineering Graduate (2026) | Java Backend Developer | Spring Boot | REST APIs | Hibernate | MySQL | MongoDB | Software Engineer | Open to Work</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-kharage-824354258/" target="_blank">
