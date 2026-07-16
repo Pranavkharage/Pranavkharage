@@ -98,7 +98,7 @@
 - 🏅 **Government of India Copyright** — Centralized E-Study Platform
 - 🏅 **Government of India Copyright** — Solar Helmet
 - 📝 **Published Research Paper** — IJCRT: Impact of Big Data and Predictive Analytics on Business Decision Making
-- 🎓 **CGPA: 8.88** — B.E. Computer Engineering, NMIET Pune
+- 🎓 **CGPA: 8.98** — B.E. Computer Engineering, NMIET Pune
 
 ---
 
