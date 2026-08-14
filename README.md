@@ -57,16 +57,17 @@
 ### 🚀 Featured Projects
 
 #### 📚 [Centralized E-Study Platform](https://github.com/Pranavkharage/Centralized-E-Study) — 🏆 Government of India Copyright
-> Full-stack web application for student interview preparation
+> Full-stack web application for student interview preparation | 🔗 [Live Demo](https://centralized-e-study.onrender.com)
 
 - Built with **Spring Boot + MySQL + MongoDB** — hybrid database architecture
+- **Deployed on Render** with **MongoDB Atlas** and **Aiven MySQL** — fully cloud-hosted, publicly accessible
 - **MySQL** for secure user authentication (Spring Data JPA + Hibernate)
 - **MongoDB** for storing 50+ study topics across 5 subjects — OOP, DSA, OS, CN, DBMS
 - Complete browser UI — Login → Dashboard → Subject content with theory, code, Q&A
 - Auto data seeder loads all content into MongoDB on first startup
 - YouTube OneShot video links for each subject
 
-`Java` `Spring Boot` `MySQL` `MongoDB` `Spring Data JPA` `Spring Data MongoDB` `HTML` `CSS` `JS`
+`Java` `Spring Boot` `MySQL` `MongoDB` `Spring Data JPA` `Spring Data MongoDB` `HTML` `CSS` `JS` `Render` `Docker`
 
 ---
 
