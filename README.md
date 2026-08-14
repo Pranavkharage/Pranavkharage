@@ -105,10 +105,9 @@
 
 ### 📜 Certifications
 
-- ✅ Programming Using Java — **Infosys Springboard**
-- ✅ Java Course: Master the Fundamentals — **Scalar** (2024)
-- ✅ HTML and CSS — **Great Learning** (2023)
-
+- ✅ The Java Language — **Coursera**
+- ✅ Java Programming — **Great Learning**
+- ✅ AWS Cloud Practitioner Essentials — **Amazon Web Services**
 ---
 
 <p align="center">
