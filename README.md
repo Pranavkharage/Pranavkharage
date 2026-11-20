@@ -1,15 +1,17 @@
+
 <h1 align="center">Hi 👋, I'm Pranav Kharage</h1>
-<h3 align="center">Computer Engineering Graduate (2026) | Java Backend Developer | Spring Boot | REST APIs | Hibernate | MySQL | MongoDB | Software Engineer | Open to Work</h3>
+
+<h3 align="center">Java Full-Stack Developer | Spring Boot • React • MySQL • MongoDB</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-kharage-824354258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pranavkharage21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Pranavkharage" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -17,101 +19,113 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Engineering Graduate (2026)** student at **NMIET Pune** (CGPA: 8.98)
-- 💼 Building backend systems with **Java, Spring Boot, MySQL, and MongoDB**
-- 🏆 Holds **2 Government of India Copyrights** for original software projects
-- 📄 Published research paper in **IJCRT** on Big Data and Predictive Analytics
-- 🌱 Currently learning **JWT Authentication** and **Spring Security**
-- 📫 Reach me at **pranavkharage21@gmail.com**
+- 🎓 **B.E. Computer Engineering, 2026** — NMIET, Pune | **CGPA: 8.98**
+- 💻 Focused on building backend applications and full-stack web solutions using **Java, Spring Boot, React, and SQL/NoSQL databases**.
+- 🧩 Interested in **Java Developer, Backend Developer, and Full-Stack Developer** opportunities.
+- 🏆 Holder of **2 Government of India copyrights** for software/project work.
+- 📄 Published research papers in **IEEE and IJCRT**.
+- 🧠 Practicing Data Structures and Algorithms — **290+ problems solved on LeetCode**.
+- 📫 **Email:** pranavkharage21@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frameworks & Tools:**
+**Backend & Frameworks**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Databases:**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Currently Learning**
+
+`Spring Security` `JWT Authentication` `TypeScript` `Tailwind CSS`
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 📚 [Centralized E-Study Platform](https://github.com/Pranavkharage/Centralized-E-Study) — 🏆 Government of India Copyright
-> Full-stack web application for student interview preparation | 🔗 [Live Demo](https://centralized-e-study.onrender.com)
+#### 📚 [Centralized E-Study Platform](https://github.com/Pranavkharage/Centralized-E-Study)
 
-- Built with **Spring Boot + MySQL + MongoDB** — hybrid database architecture
-- **Deployed on Render** with **MongoDB Atlas** and **Aiven MySQL** — fully cloud-hosted, publicly accessible
-- **MySQL** for secure user authentication (Spring Data JPA + Hibernate)
-- **MongoDB** for storing 50+ study topics across 5 subjects — OOP, DSA, OS, CN, DBMS
-- Complete browser UI — Login → Dashboard → Subject content with theory, code, Q&A
-- Auto data seeder loads all content into MongoDB on first startup
-- YouTube OneShot video links for each subject
+**Full-stack student learning and interview-preparation platform** | 🏆 Government of India Copyright
 
-`Java` `Spring Boot` `MySQL` `MongoDB` `Spring Data JPA` `Spring Data MongoDB` `HTML` `CSS` `JS` `Render` `Docker`
+🔗 [Live Demo](https://centralized-e-study.onrender.com)
+
+- Developed with **Spring Boot**, **MySQL**, and **MongoDB** using a hybrid database approach.
+- Used **Spring Data JPA and Hibernate** for relational user/authentication data, and **MongoDB** for learning content.
+- Organized **50+ study topics** across OOP, DSA, Operating Systems, Computer Networks, and DBMS.
+- Built a browser-based flow covering login, dashboard, subject content, theory, code examples, and Q&A.
+- Added startup data seeding to populate MongoDB with learning content.
+
+`Java` `Spring Boot` `Spring Data JPA` `Spring Data MongoDB` `Hibernate` `MySQL` `MongoDB` `HTML` `CSS` `JavaScript` `Render`
 
 ---
 
 #### 💰 [Smart Expense Analyzer & Budget Tracker](https://github.com/Pranavkharage/Smart-Expense-Analyzer-Budget-Tracker)
-> Full CRUD REST API for personal expense management
 
-- Built with **Spring Boot + Spring Data JPA + MySQL**
-- Full CRUD — Create, Read, Update, Delete on expenses and budget
-- Monthly category-wise spending reports with budget threshold alerts
-- Per-user data isolation — every user sees only their own data
-- All 9 endpoints tested on **Postman**
-- Hibernate ORM — no raw SQL, object-to-table mapping automatic
+**REST API for personal expense and budget management**
 
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST API` `Postman` `Maven`
+- Built RESTful CRUD functionality using **Java, Spring Boot, Spring Data JPA, and MySQL**.
+- Implemented expense and budget management with monthly, category-wise spending reports.
+- Added budget-threshold alerts and per-user data isolation.
+- Tested all **9 REST API endpoints** using Postman.
+- Used Hibernate ORM for Java object-to-relational database mapping.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranavkharage&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavkharage&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+`Java` `Spring Boot` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL` `Postman` `Maven`
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements & Publications
 
-- 🏅 **Government of India Copyright** — Centralized E-Study Platform
-- 🏅 **Government of India Copyright** — Solar Helmet
-- 📝 **Published Research Paper** — IJCRT: Impact of Big Data and Predictive Analytics on Business Decision Making
-- 🎓 **CGPA: 8.98** — B.E. Computer Engineering, NMIET Pune
+- 🏅 **Government of India Copyright** — Centralized E-Study Platform.
+- 🏅 **Government of India Copyright** — Solar Helmet.
+- 📄 **IEEE Published Research Paper** — *"SkillSpectrum AI: Redefining Interview Intelligence with Real-Time Performance Insights."*
+- 📄 **IJCRT Published Research Paper** — *"Impact of Big Data and Predictive Analytics on Business Decision Making."*
+- 🎓 **CGPA: 8.98/10** — B.E. Computer Engineering, NMIET Pune.
+- 💡 **290+ LeetCode problems solved** — Data Structures and Algorithms practice.
 
 ---
 
 ### 📜 Certifications
 
-- ✅ The Java Language — **Coursera**
-- ✅ Java Programming — **Great Learning**
-- ✅ AWS Cloud Practitioner Essentials — **Amazon Web Services**
+- The Java Language — **Coursera**
+- Java Programming — **Great Learning**
+- AWS Cloud Practitioner Essentials — **Amazon Web Services**
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranavkharage&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranavkharage&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavkharage&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranavkharage&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">⭐ If you find my projects useful, consider giving them a star!</p>
